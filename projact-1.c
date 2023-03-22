@@ -3,9 +3,9 @@
 int main()
 {
     printf("Hello World");
-    printf("Hello World");
-    printf("Hello World");
-    printf("Hello World");
-// hello adda a new line
+    printf("Hello 9");
+    printf("Helo World");
+    printf("Hello Word");
+// hello adda a new line 1
     return 0;
 }
